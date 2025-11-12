@@ -1,0 +1,9 @@
+my-portfolio/
+├── public/           ← Your photo goes here!
+│   ├── certificates/
+│   ├── vite.svg
+│   └── ...
+├── src/
+├── index.html
+├── package.json
+└── ...

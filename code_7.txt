@@ -1,0 +1,11 @@
+public/
+├── certificates/
+│   ├── dsa-infosys.jpg
+│   ├── deep-learning-infosys.jpg
+│   ├── mongodb.jpg
+│   ├── python-simplilearn.jpg
+│   ├── tableau-simplilearn.jpg
+│   └── aws-ml-nlp.jpg
+├── profile-photo.jpg    ← Your photo here!
+├── resume.pdf
+└── vite.svg

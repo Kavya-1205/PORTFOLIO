@@ -1,0 +1,11 @@
+my-portfolio/
+├── public/
+│   └── certificates/
+│       ├── dsa-infosys.jpg              ← Add your files here
+│       ├── deep-learning-infosys.jpg
+│       ├── mongodb.jpg
+│       ├── python-simplilearn.jpg
+│       ├── tableau-simplilearn.jpg
+│       └── aws-ml-nlp.jpg
+├── src/
+└── ...
